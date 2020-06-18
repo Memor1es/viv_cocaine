@@ -19,6 +19,5 @@ Locales ['en'] = {
     -- blips
     ['blip_cocafield'] = 'coca Field',
     ['blip_cocaprocessing'] = 'coca Processing',
-    ['blip_drugdealer'] = 'drug Dealer',
-  }
+}
   
